@@ -48,7 +48,7 @@ Build a platform around a small sample ordering application to:
 
 \- Configured and verified the releaseguard-dev AWS CLI profile.
 
-\- Created a $10 AWS budget with alerts at 50% and 75%.
+\- Created a $15 AWS budget with alerts at 50% and 75%.
 
 \- Initialized the local Git repository.
 
