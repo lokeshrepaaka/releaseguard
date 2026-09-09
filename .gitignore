@@ -1,0 +1,22 @@
+# Private keys and certificates
+*.pem
+*.key
+
+# Environment files that may contain secrets
+.env
+.env.*
+
+# Terraform-generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Operating-system files
+.DS_Store
+Thumbs.db
